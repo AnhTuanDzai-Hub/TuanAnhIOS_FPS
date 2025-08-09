@@ -1,0 +1,9 @@
+Package: com.vanthanhisme.vtios
+Name: TAIOS
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: @TAIOS
+Author: @TAIOS
+Section: Tweaks
